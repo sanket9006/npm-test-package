@@ -1,14 +1,19 @@
 {
   "name": "npm-test-package",
   "version": "1.0.0",
-  "description": "Test for to publish on NPM",
+  "description": "NPM test package",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "keywords": [
-    "npm-test-package"
-  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanket9006/npm-test-package.git"
+  },
   "author": "Sanket Patil <hi@patilsanket.in> (patilsanket.in)",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanket9006/npm-test-package/issues"
+  },
+  "homepage": "https://github.com/sanket9006/npm-test-package#readme"
 }
