@@ -1,0 +1,14 @@
+{
+  "name": "npm-test-package",
+  "version": "1.0.0",
+  "description": "Test for to publish on NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "npm-test-package"
+  ],
+  "author": "Sanket Patil <hi@patilsanket.in> (patilsanket.in)",
+  "license": "MIT"
+}
