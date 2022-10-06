@@ -1,5 +1,5 @@
 function log(msg) {
-    console.log(msg + " Hi")
+    console.log(msg + " Hi Hello")
     return msg
 }
 

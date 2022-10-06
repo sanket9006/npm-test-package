@@ -1,6 +1,6 @@
 {
   "name": "npm-test-package-patil-sanket-in",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NPM test package",
   "main": "index.js",
   "scripts": {
